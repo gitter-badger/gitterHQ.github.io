@@ -1,5 +1,7 @@
 # Left
 
+[![Join the chat at https://gitter.im/gitterHQ/gitterHQ.github.io](https://badges.gitter.im/gitterHQ/gitterHQ.github.io.svg)](https://gitter.im/gitterHQ/gitterHQ.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
 
 This is designed to be an easy layout to modify for your own blog. It was
